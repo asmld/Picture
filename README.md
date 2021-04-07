@@ -1,2 +1,2 @@
-# Picture
-Store my pictures used in `Typora`
+# Study
+Record my learning process
