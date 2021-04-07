@@ -1,2 +1,2 @@
 # picture
-Store my pictures
+Store my pictures used in `Typora`
