@@ -1,2 +1,2 @@
 # Img
-My `PicGo` update images to this floder
+My `PicGo` updates images to this floder
